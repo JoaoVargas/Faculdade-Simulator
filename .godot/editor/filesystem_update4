@@ -1,0 +1,6 @@
+res://scripts/player/Player.gd
+res://scenes/player/player_main.tscn
+res://scenes/player/player_main_aux.gd
+res://scenes/place.tscn
+res://scenes/interactive.tscn
+res://scripts/player/player_main_aux.gd

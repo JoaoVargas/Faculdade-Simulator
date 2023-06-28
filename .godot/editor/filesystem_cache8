@@ -1,0 +1,15 @@
+2a60927148abd1d33b818b535e306557
+::res://::1687558420
+::res://assets/::1687558337
+::res://assets/player/::1687558333
+::res://export/::1687558258
+export_presets.cfg::TextFile::-1::1687558108::0::1::::<><>::
+::res://scenes/::1687559077
+place.tscn::PackedScene::1081844803030756973::1687559077::0::1::::<><>::
+interactive.tscn::PackedScene::1038347394994719557::1687559077::0::1::::<><>::
+::res://scenes/player/::1687559077
+player_main.tscn::PackedScene::4774590154650315972::1687559211::0::1::::<><>::res://scenes/player/player_main_aux.gd
+player_main_aux.gd::GDScript::-1::1687559211::0::1::::<>RefCounted<>::
+::res://scripts/::1687558295
+::res://scripts/player/::1687559077
+Player.gd::GDScript::-1::1687559211::0::1::::<>CharacterBody2D<>::
