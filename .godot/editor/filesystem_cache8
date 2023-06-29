@@ -1,5 +1,5 @@
 2a60927148abd1d33b818b535e306557
-::res://::1687999813
+::res://::1688001187
 README.md::TextFile::-1::1687999178::0::1::::<><>::
 ::res://addons/::1687999944
 ::res://addons/dialogue_manager/::1687999944
@@ -54,10 +54,16 @@ git_plugin.gdextension::GDExtension::-1::1687999813::0::1::::<><>::
 plugin.cfg::TextFile::-1::1687999813::0::1::::<><>::
 THIRDPARTY.md::TextFile::-1::1687999813::0::1::::<><>::
 ::res://addons/godot-git-plugin/linux/::1687999813
+::res://assets/::1688001123
+::res://assets/font/::1688001119
+::res://credits/::1688001187
 ::res://export/::1687999178
 export_presets.cfg::TextFile::-1::1687999178::0::1::::<><>::
-::res://scenes/::1687999178
-interactive.tscn::PackedScene::1038347394994719557::1687999178::0::1::::<><>::
+::res://scenes/::1688000389
+interactive.tscn::PackedScene::1038347394994719557::1688000389::0::1::::<><>::res://scripts/interactive_base.gd
 place.tscn::PackedScene::1081844803030756973::1687999178::0::1::::<><>::
 ::res://scenes/player/::1687999178
 player_main.tscn::PackedScene::4774590154650315972::1687999178::0::1::::<><>::
+::res://scripts/::1687999994
+interactive_base.gd::GDScript::-1::1687999994::0::1::::<>Area2D<>::
+::res://scripts/player/::1687999988
